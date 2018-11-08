@@ -1,6 +1,8 @@
 # Semantic Search
 ![Preview](https://github.com/hundredblocks/semantic-search/blob/master/assets/image_search_cover.jpeg)
 
+See a blog entry (https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
+
 This repository contains a barebones implementation of a semantic search engine. 
 The implementation is based on leveraging pre-trained embeddings from VGG16 (trained on Imagenet), and GloVe (trained on Wikipedia).
 
